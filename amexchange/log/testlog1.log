@@ -1,0 +1,635 @@
+2021-05-06 20:34:31,186 [main] INFO BaseClass - Chrome Open
+2021-05-06 20:34:33,187 [main] INFO BaseClass - Base URL Open
+2021-05-06 20:34:33,202 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 20:34:33,470 [main] INFO BaseClass - driver init
+2021-05-06 20:34:34,635 [main] INFO BaseClass - username set
+2021-05-06 20:37:24,262 [main] INFO BaseClass - Chrome Open
+2021-05-06 20:37:26,733 [main] INFO BaseClass - Base URL Open
+2021-05-06 20:37:26,751 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 20:37:27,127 [main] INFO BaseClass - driver init
+2021-05-06 20:37:28,481 [main] INFO BaseClass - username set
+2021-05-06 20:39:43,564 [main] INFO BaseClass - Chrome Open
+2021-05-06 20:39:45,832 [main] INFO BaseClass - Base URL Open
+2021-05-06 20:39:45,856 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 20:39:46,166 [main] INFO BaseClass - driver init
+2021-05-06 20:39:47,267 [main] INFO BaseClass - username set
+2021-05-06 20:42:29,810 [main] INFO BaseClass - Chrome Open
+2021-05-06 20:42:32,358 [main] INFO BaseClass - Base URL Open
+2021-05-06 20:42:32,374 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 20:42:32,675 [main] INFO BaseClass - driver init
+2021-05-06 20:42:33,952 [main] INFO BaseClass - username set
+2021-05-06 20:47:51,220 [main] INFO BaseClass - Chrome Open
+2021-05-06 20:47:53,694 [main] INFO BaseClass - Base URL Open
+2021-05-06 20:47:53,711 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 20:47:53,984 [main] INFO BaseClass - driver init
+2021-05-06 20:52:29,303 [main] INFO BaseClass - Chrome Open
+2021-05-06 20:52:31,905 [main] INFO BaseClass - Base URL Open
+2021-05-06 20:52:31,922 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 20:52:32,283 [main] INFO BaseClass - driver init
+2021-05-06 20:52:33,392 [main] INFO BaseClass - username set
+2021-05-06 20:54:49,469 [main] INFO BaseClass - Chrome Open
+2021-05-06 20:54:52,103 [main] INFO BaseClass - Base URL Open
+2021-05-06 20:54:52,141 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 20:54:52,443 [main] INFO BaseClass - driver init
+2021-05-06 20:54:53,975 [main] INFO BaseClass - username set
+2021-05-06 20:59:08,452 [main] INFO BaseClass - Chrome Open
+2021-05-06 20:59:11,170 [main] INFO BaseClass - Base URL Open
+2021-05-06 20:59:11,187 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 20:59:11,481 [main] INFO BaseClass - driver init
+2021-05-06 20:59:12,820 [main] INFO BaseClass - username set
+2021-05-06 21:01:20,984 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:01:23,576 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:01:23,595 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:01:23,909 [main] INFO BaseClass - driver init
+2021-05-06 21:01:25,151 [main] INFO BaseClass - username set
+2021-05-06 21:02:53,092 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:02:56,519 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:02:56,557 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:02:56,876 [main] INFO BaseClass - driver init
+2021-05-06 21:02:57,944 [main] INFO BaseClass - username set
+2021-05-06 21:03:59,051 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:04:01,704 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:04:01,741 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:04:02,043 [main] INFO BaseClass - driver init
+2021-05-06 21:04:03,530 [main] INFO BaseClass - username set
+2021-05-06 21:04:50,137 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:04:52,822 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:04:52,863 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:04:53,214 [main] INFO BaseClass - driver init
+2021-05-06 21:04:54,575 [main] INFO BaseClass - username set
+2021-05-06 21:06:47,855 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:06:50,529 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:06:50,547 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:06:50,902 [main] INFO BaseClass - driver init
+2021-05-06 21:06:52,103 [main] INFO BaseClass - username set
+2021-05-06 21:09:21,914 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:09:24,819 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:09:24,839 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:09:25,144 [main] INFO BaseClass - driver init
+2021-05-06 21:09:26,632 [main] INFO BaseClass - username set
+2021-05-06 21:18:16,286 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:18:19,430 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:18:19,447 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:18:19,763 [main] INFO BaseClass - driver init
+2021-05-06 21:18:21,250 [main] INFO BaseClass - username set
+2021-05-06 21:18:21,284 [main] INFO BaseClass - password pass
+2021-05-06 21:18:21,323 [main] INFO BaseClass - login click
+2021-05-06 21:26:05,652 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:26:08,089 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:26:08,106 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:26:08,399 [main] INFO BaseClass - driver init
+2021-05-06 21:26:09,639 [main] INFO BaseClass - username set
+2021-05-06 21:27:29,795 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:27:32,565 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:27:32,586 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:27:32,853 [main] INFO BaseClass - driver init
+2021-05-06 21:27:34,024 [main] INFO BaseClass - username set
+2021-05-06 21:28:22,172 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:28:25,178 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:28:25,195 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:28:25,517 [main] INFO BaseClass - driver init
+2021-05-06 21:28:26,675 [main] INFO BaseClass - username set
+2021-05-06 21:38:01,990 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:38:04,265 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:38:04,282 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:38:04,533 [main] INFO BaseClass - driver init
+2021-05-06 21:38:06,725 [main] INFO BaseClass - username set
+2021-05-06 21:41:36,728 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:41:38,892 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:41:38,912 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:41:39,210 [main] INFO BaseClass - driver init
+2021-05-06 21:41:40,601 [main] INFO BaseClass - username set
+2021-05-06 21:45:23,879 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:45:26,483 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:45:26,501 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:45:26,800 [main] INFO BaseClass - driver init
+2021-05-06 21:45:29,278 [main] INFO BaseClass - username set
+2021-05-06 21:49:41,879 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:49:44,984 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:49:45,002 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:49:45,282 [main] INFO BaseClass - driver init
+2021-05-06 21:49:46,536 [main] INFO BaseClass - username set
+2021-05-06 21:52:44,506 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:52:47,132 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:52:47,151 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:52:47,439 [main] INFO BaseClass - driver init
+2021-05-06 21:52:50,097 [main] INFO BaseClass - username set
+2021-05-06 21:53:22,557 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:53:24,889 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:53:24,907 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:53:25,168 [main] INFO BaseClass - driver init
+2021-05-06 21:53:26,418 [main] INFO BaseClass - username set
+2021-05-06 21:54:06,845 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:54:09,875 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:54:09,894 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:54:10,188 [main] INFO BaseClass - driver init
+2021-05-06 21:54:11,447 [main] INFO BaseClass - username set
+2021-05-06 21:54:39,605 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:54:42,403 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:54:42,419 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:54:42,736 [main] INFO BaseClass - driver init
+2021-05-06 21:54:43,870 [main] INFO BaseClass - username set
+2021-05-06 21:54:43,903 [main] INFO BaseClass - password pass
+2021-05-06 21:54:43,946 [main] INFO BaseClass - login click
+2021-05-06 21:55:54,403 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:55:57,067 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:55:57,084 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:55:57,400 [main] INFO BaseClass - driver init
+2021-05-06 21:55:58,618 [main] INFO BaseClass - username set
+2021-05-06 21:55:58,703 [main] INFO BaseClass - password pass
+2021-05-06 21:55:58,746 [main] INFO BaseClass - login click
+2021-05-06 21:57:29,523 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:57:31,843 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:57:31,861 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:57:32,129 [main] INFO BaseClass - driver init
+2021-05-06 21:57:33,259 [main] INFO BaseClass - username set
+2021-05-06 21:58:08,343 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:58:10,699 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:58:10,715 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:58:11,029 [main] INFO BaseClass - driver init
+2021-05-06 21:58:12,107 [main] INFO BaseClass - username set
+2021-05-06 21:59:17,758 [main] INFO BaseClass - Chrome Open
+2021-05-06 21:59:20,206 [main] INFO BaseClass - Base URL Open
+2021-05-06 21:59:20,223 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 21:59:20,526 [main] INFO BaseClass - driver init
+2021-05-06 21:59:21,604 [main] INFO BaseClass - username set
+2021-05-06 21:59:21,693 [main] INFO BaseClass - password pass
+2021-05-06 21:59:21,737 [main] INFO BaseClass - login click
+2021-05-06 22:13:37,413 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 22:13:40,122 [main] INFO BaseClass - Base URL Open
+2021-05-06 22:13:40,138 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 22:13:40,460 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 22:13:41,557 [main] INFO BaseClass - username set success
+2021-05-06 22:13:41,643 [main] INFO BaseClass - password set success
+2021-05-06 22:13:41,687 [main] INFO BaseClass - login click success
+2021-05-06 22:14:00,668 [main] INFO BaseClass - Login test PASS
+2021-05-06 22:14:00,668 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 22:22:52,933 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 22:22:56,108 [main] INFO BaseClass - Base URL Open
+2021-05-06 22:22:56,126 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 22:22:56,429 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 22:22:57,624 [main] INFO BaseClass - username set success
+2021-05-06 22:22:57,712 [main] INFO BaseClass - password set success
+2021-05-06 22:22:57,752 [main] INFO BaseClass - login click success
+2021-05-06 22:27:40,596 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 22:27:43,210 [main] INFO BaseClass - Base URL Open
+2021-05-06 22:27:43,227 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 22:27:43,515 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 22:27:45,099 [main] INFO BaseClass - username set success
+2021-05-06 22:27:45,191 [main] INFO BaseClass - password set success
+2021-05-06 22:27:45,237 [main] INFO BaseClass - login click success
+2021-05-06 22:30:33,586 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 22:30:37,122 [main] INFO BaseClass - Base URL Open
+2021-05-06 22:30:37,139 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 22:30:37,441 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 22:30:38,594 [main] INFO BaseClass - username set success
+2021-05-06 22:30:38,699 [main] INFO BaseClass - password set success
+2021-05-06 22:30:38,744 [main] INFO BaseClass - login click success
+2021-05-06 22:31:58,478 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 22:32:01,239 [main] INFO BaseClass - Base URL Open
+2021-05-06 22:32:01,259 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 22:32:01,568 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 22:32:02,754 [main] INFO BaseClass - username set success
+2021-05-06 22:32:02,843 [main] INFO BaseClass - password set success
+2021-05-06 22:32:02,887 [main] INFO BaseClass - login click success
+2021-05-06 22:32:25,080 [main] INFO BaseClass - Login test PASS
+2021-05-06 22:32:25,121 [main] INFO BaseClass - Invite popup close success
+2021-05-06 22:32:25,121 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 22:45:15,357 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 22:45:19,797 [main] INFO BaseClass - Base URL Open
+2021-05-06 22:45:19,817 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 22:45:20,138 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 22:45:21,399 [main] INFO BaseClass - username set success
+2021-05-06 22:45:21,510 [main] INFO BaseClass - password set success
+2021-05-06 22:45:21,561 [main] INFO BaseClass - login click success
+2021-05-06 22:45:42,882 [main] INFO BaseClass - Login test PASS
+2021-05-06 22:45:42,921 [main] INFO BaseClass - Invite popup close success
+2021-05-06 22:45:42,922 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 22:47:49,228 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 22:47:52,069 [main] INFO BaseClass - Base URL Open
+2021-05-06 22:47:52,088 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 22:47:52,380 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 22:47:53,546 [main] INFO BaseClass - username set success
+2021-05-06 22:47:53,631 [main] INFO BaseClass - password set success
+2021-05-06 22:47:53,672 [main] INFO BaseClass - login click success
+2021-05-06 22:48:12,526 [main] INFO BaseClass - Login test PASS
+2021-05-06 22:48:12,567 [main] INFO BaseClass - Invite popup close success
+2021-05-06 22:48:12,567 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 22:48:12,611 [main] INFO BaseClass - Remittance is present
+2021-05-06 22:56:57,551 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 22:57:00,094 [main] INFO BaseClass - Base URL Open
+2021-05-06 22:57:00,117 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 22:57:00,418 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 22:57:01,516 [main] INFO BaseClass - username set success
+2021-05-06 22:57:01,612 [main] INFO BaseClass - password set success
+2021-05-06 22:57:01,654 [main] INFO BaseClass - login click success
+2021-05-06 22:57:26,114 [main] INFO BaseClass - Login test PASS
+2021-05-06 22:57:26,151 [main] INFO BaseClass - Invite popup close success
+2021-05-06 22:57:26,152 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 22:57:26,193 [main] INFO BaseClass - Remittance is present
+2021-05-06 22:57:26,219 [main] INFO BaseClass - My Transaction is notpresent SS attached
+2021-05-06 22:57:26,232 [main] INFO BaseClass - Beneficiaries is notpresent SS attached
+2021-05-06 22:57:26,245 [main] INFO BaseClass - Exchange Rate is notpresent SS attached
+2021-05-06 22:57:26,256 [main] INFO BaseClass - Deliver FX is notpresent SS attached
+2021-05-06 22:57:26,257 [main] INFO BaseClass - All Tab Present
+2021-05-06 22:59:50,740 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 22:59:53,179 [main] INFO BaseClass - Base URL Open
+2021-05-06 22:59:53,198 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 22:59:53,476 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 22:59:54,655 [main] INFO BaseClass - username set success
+2021-05-06 22:59:54,752 [main] INFO BaseClass - password set success
+2021-05-06 22:59:54,799 [main] INFO BaseClass - login click success
+2021-05-06 23:00:18,191 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:00:18,231 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:00:18,231 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:00:18,275 [main] INFO BaseClass - Remittance is present
+2021-05-06 23:02:09,654 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 23:02:12,104 [main] INFO BaseClass - Base URL Open
+2021-05-06 23:02:12,121 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 23:02:12,463 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 23:02:13,593 [main] INFO BaseClass - username set success
+2021-05-06 23:02:13,688 [main] INFO BaseClass - password set success
+2021-05-06 23:02:13,730 [main] INFO BaseClass - login click success
+2021-05-06 23:02:44,086 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:02:44,133 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:02:44,133 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:02:44,174 [main] INFO BaseClass - Remittance is present
+2021-05-06 23:02:44,204 [main] INFO BaseClass - My Transaction is notpresent SS attached
+2021-05-06 23:02:44,227 [main] INFO BaseClass - Beneficiaries is present
+2021-05-06 23:02:44,260 [main] INFO BaseClass - Exchange Rate is present
+2021-05-06 23:02:44,291 [main] INFO BaseClass - Deliver FX is present
+2021-05-06 23:02:44,304 [main] INFO BaseClass - All Tab Present
+2021-05-06 23:04:44,685 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 23:04:47,180 [main] INFO BaseClass - Base URL Open
+2021-05-06 23:04:47,197 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 23:04:47,469 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 23:04:48,840 [main] INFO BaseClass - username set success
+2021-05-06 23:04:48,936 [main] INFO BaseClass - password set success
+2021-05-06 23:04:48,978 [main] INFO BaseClass - login click success
+2021-05-06 23:05:19,827 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:05:19,868 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:05:19,869 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:05:19,909 [main] INFO BaseClass - Remittance is present
+2021-05-06 23:05:19,943 [main] INFO BaseClass - My Transaction is notpresent SS attached
+2021-05-06 23:05:19,962 [main] INFO BaseClass - Beneficiaries is present
+2021-05-06 23:05:19,994 [main] INFO BaseClass - Exchange Rate is present
+2021-05-06 23:05:20,025 [main] INFO BaseClass - Deliver FX is present
+2021-05-06 23:05:20,043 [main] INFO BaseClass - All Tab Present
+2021-05-06 23:06:29,211 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 23:06:31,813 [main] INFO BaseClass - Base URL Open
+2021-05-06 23:06:31,830 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 23:06:32,152 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 23:06:33,252 [main] INFO BaseClass - username set success
+2021-05-06 23:06:33,344 [main] INFO BaseClass - password set success
+2021-05-06 23:06:33,389 [main] INFO BaseClass - login click success
+2021-05-06 23:07:06,435 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:07:06,475 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:07:06,476 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:07:06,516 [main] INFO BaseClass - Remittance is present
+2021-05-06 23:07:06,553 [main] INFO BaseClass - My Transaction is notpresent SS attached
+2021-05-06 23:07:06,574 [main] INFO BaseClass - Beneficiaries is present
+2021-05-06 23:07:06,609 [main] INFO BaseClass - Exchange Rate is present
+2021-05-06 23:07:06,638 [main] INFO BaseClass - Deliver FX is present
+2021-05-06 23:07:06,654 [main] INFO BaseClass - All Tab Present
+2021-05-06 23:09:48,611 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 23:09:51,181 [main] INFO BaseClass - Base URL Open
+2021-05-06 23:09:51,199 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 23:09:51,503 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 23:09:52,855 [main] INFO BaseClass - username set success
+2021-05-06 23:09:52,951 [main] INFO BaseClass - password set success
+2021-05-06 23:09:52,997 [main] INFO BaseClass - login click success
+2021-05-06 23:10:45,372 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:10:45,422 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:10:45,423 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:10:45,466 [main] INFO BaseClass - Remittance is present
+2021-05-06 23:10:45,499 [main] INFO BaseClass - My Transaction is notpresent SS attached
+2021-05-06 23:10:45,519 [main] INFO BaseClass - Beneficiaries is present
+2021-05-06 23:10:45,553 [main] INFO BaseClass - Exchange Rate is present
+2021-05-06 23:10:45,582 [main] INFO BaseClass - Deliver FX is present
+2021-05-06 23:10:45,594 [main] INFO BaseClass - All Tab Present
+2021-05-06 23:14:03,229 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 23:14:05,761 [main] INFO BaseClass - Base URL Open
+2021-05-06 23:14:05,778 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 23:14:06,064 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 23:14:07,162 [main] INFO BaseClass - username set success
+2021-05-06 23:14:07,247 [main] INFO BaseClass - password set success
+2021-05-06 23:14:07,292 [main] INFO BaseClass - login click success
+2021-05-06 23:14:33,889 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:14:33,930 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:14:33,930 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:14:33,972 [main] INFO BaseClass - Remittance is present
+2021-05-06 23:14:34,019 [main] INFO BaseClass - My Transaction is notpresent SS attached
+2021-05-06 23:14:34,039 [main] INFO BaseClass - Beneficiaries is present
+2021-05-06 23:14:34,075 [main] INFO BaseClass - Exchange Rate is present
+2021-05-06 23:14:34,106 [main] INFO BaseClass - Deliver FX is present
+2021-05-06 23:14:34,118 [main] INFO BaseClass - All Tab Present
+2021-05-06 23:16:53,677 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 23:16:59,882 [main] INFO BaseClass - Base URL Open
+2021-05-06 23:16:59,898 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 23:17:00,630 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 23:17:03,591 [main] INFO BaseClass - username set success
+2021-05-06 23:17:03,681 [main] INFO BaseClass - password set success
+2021-05-06 23:17:03,724 [main] INFO BaseClass - login click success
+2021-05-06 23:17:30,461 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:17:30,499 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:17:30,500 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:17:30,548 [main] INFO BaseClass - Remittance is present
+2021-05-06 23:17:30,581 [main] INFO BaseClass - My Transaction is notpresent SS attached
+2021-05-06 23:17:30,603 [main] INFO BaseClass - Beneficiaries is present
+2021-05-06 23:17:30,635 [main] INFO BaseClass - Exchange Rate is present
+2021-05-06 23:17:30,663 [main] INFO BaseClass - Deliver FX is present
+2021-05-06 23:17:30,674 [main] INFO BaseClass - All Tab Present
+2021-05-06 23:25:42,552 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 23:25:47,483 [main] INFO BaseClass - Base URL Open
+2021-05-06 23:25:47,500 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 23:25:47,846 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 23:25:50,256 [main] INFO BaseClass - username set success
+2021-05-06 23:25:50,355 [main] INFO BaseClass - password set success
+2021-05-06 23:25:50,396 [main] INFO BaseClass - login click success
+2021-05-06 23:26:18,010 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:26:18,056 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:26:18,057 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:26:18,096 [main] INFO BaseClass - Remittance is present
+2021-05-06 23:26:18,143 [main] INFO BaseClass - My Transaction is notpresent SS attached
+2021-05-06 23:26:18,163 [main] INFO BaseClass - Beneficiaries is present
+2021-05-06 23:26:18,196 [main] INFO BaseClass - Exchange Rate is present
+2021-05-06 23:26:18,230 [main] INFO BaseClass - Deliver FX is present
+2021-05-06 23:26:18,242 [main] INFO BaseClass - All Tab Present
+2021-05-06 23:30:51,451 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 23:30:55,249 [main] INFO BaseClass - Base URL Open
+2021-05-06 23:30:55,267 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 23:30:55,621 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 23:30:59,666 [main] INFO BaseClass - username set success
+2021-05-06 23:30:59,762 [main] INFO BaseClass - password set success
+2021-05-06 23:30:59,808 [main] INFO BaseClass - login click success
+2021-05-06 23:31:36,296 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:31:36,332 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:31:36,332 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:31:36,371 [main] INFO BaseClass - Remittance is present
+2021-05-06 23:36:21,836 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 23:36:28,642 [main] INFO BaseClass - Base URL Open
+2021-05-06 23:36:28,658 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 23:36:29,230 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 23:36:31,031 [main] INFO BaseClass - username set success
+2021-05-06 23:36:31,120 [main] INFO BaseClass - password set success
+2021-05-06 23:36:31,168 [main] INFO BaseClass - login click success
+2021-05-06 23:36:56,855 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:36:56,894 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:36:56,894 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:36:56,938 [main] INFO BaseClass - Remittance is present
+2021-05-06 23:36:56,988 [main] INFO BaseClass - My Transaction is notpresent SS attached
+2021-05-06 23:36:57,010 [main] INFO BaseClass - Beneficiaries is present
+2021-05-06 23:36:57,045 [main] INFO BaseClass - Exchange Rate is present
+2021-05-06 23:36:57,092 [main] INFO BaseClass - Deliver FX is present
+2021-05-06 23:36:57,106 [main] INFO BaseClass - All Tab Present
+2021-05-06 23:38:09,656 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 23:38:15,170 [main] INFO BaseClass - Base URL Open
+2021-05-06 23:38:15,191 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 23:38:17,229 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 23:38:19,685 [main] INFO BaseClass - username set success
+2021-05-06 23:38:19,778 [main] INFO BaseClass - password set success
+2021-05-06 23:38:19,823 [main] INFO BaseClass - login click success
+2021-05-06 23:38:44,336 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:38:44,374 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:38:44,374 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:38:44,417 [main] INFO BaseClass - Remittance is present
+2021-05-06 23:39:55,005 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 23:40:00,460 [main] INFO BaseClass - Base URL Open
+2021-05-06 23:40:00,487 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 23:40:00,959 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 23:40:04,043 [main] INFO BaseClass - username set success
+2021-05-06 23:40:04,160 [main] INFO BaseClass - password set success
+2021-05-06 23:40:04,226 [main] INFO BaseClass - login click success
+2021-05-06 23:40:31,285 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:40:31,322 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:40:31,323 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:40:31,362 [main] INFO BaseClass - Remittance is present
+2021-05-06 23:41:09,074 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 23:41:14,805 [main] INFO BaseClass - Base URL Open
+2021-05-06 23:41:14,824 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 23:41:15,089 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 23:41:25,764 [main] INFO BaseClass - username set success
+2021-05-06 23:41:25,841 [main] INFO BaseClass - password set success
+2021-05-06 23:41:25,883 [main] INFO BaseClass - login click success
+2021-05-06 23:42:17,534 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:42:17,578 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:42:17,578 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:42:17,623 [main] INFO BaseClass - Remittance is present
+2021-05-06 23:45:28,800 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 23:45:37,366 [main] INFO BaseClass - Base URL Open
+2021-05-06 23:45:37,385 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 23:45:38,287 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 23:45:41,716 [main] INFO BaseClass - username set success
+2021-05-06 23:45:41,808 [main] INFO BaseClass - password set success
+2021-05-06 23:45:41,855 [main] INFO BaseClass - login click success
+2021-05-06 23:46:26,718 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:46:26,760 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:46:26,760 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:46:26,799 [main] INFO BaseClass - Remittance is present
+2021-05-06 23:47:20,401 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 23:47:25,835 [main] INFO BaseClass - Base URL Open
+2021-05-06 23:47:25,855 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 23:47:26,221 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 23:47:28,402 [main] INFO BaseClass - username set success
+2021-05-06 23:47:28,505 [main] INFO BaseClass - password set success
+2021-05-06 23:47:28,556 [main] INFO BaseClass - login click success
+2021-05-06 23:48:13,233 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:48:13,273 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:48:13,274 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:48:13,316 [main] INFO BaseClass - Remittance is present
+2021-05-06 23:50:35,537 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 23:50:47,501 [main] INFO BaseClass - Base URL Open
+2021-05-06 23:50:47,520 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 23:50:48,753 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 23:50:56,713 [main] INFO BaseClass - username set success
+2021-05-06 23:50:56,801 [main] INFO BaseClass - password set success
+2021-05-06 23:50:56,847 [main] INFO BaseClass - login click success
+2021-05-06 23:51:51,793 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:51:51,836 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:51:51,836 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:51:51,885 [main] INFO BaseClass - Remittance is present
+2021-05-06 23:51:51,940 [main] INFO BaseClass - My Transaction is notpresent SS attached
+2021-05-06 23:51:51,961 [main] INFO BaseClass - Beneficiaries is present
+2021-05-06 23:51:51,991 [main] INFO BaseClass - Exchange Rate is present
+2021-05-06 23:51:52,019 [main] INFO BaseClass - Deliver FX is present
+2021-05-06 23:51:52,031 [main] INFO BaseClass - All Tab Present
+2021-05-06 23:56:36,666 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-06 23:57:01,363 [main] INFO BaseClass - Base URL Open
+2021-05-06 23:57:01,386 [main] INFO BaseClass - Browser is open succusfully
+2021-05-06 23:57:04,311 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-06 23:57:12,873 [main] INFO BaseClass - username set success
+2021-05-06 23:57:12,956 [main] INFO BaseClass - password set success
+2021-05-06 23:57:13,000 [main] INFO BaseClass - login click success
+2021-05-06 23:58:10,358 [main] INFO BaseClass - Login test PASS
+2021-05-06 23:58:10,392 [main] INFO BaseClass - Invite popup close success
+2021-05-06 23:58:10,392 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-06 23:58:10,437 [main] INFO BaseClass - Remittance is present
+2021-05-07 00:00:12,498 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 00:00:15,067 [main] INFO BaseClass - Base URL Open
+2021-05-07 00:00:15,085 [main] INFO BaseClass - Browser is open succusfully
+2021-05-07 00:00:15,382 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 00:00:16,617 [main] INFO BaseClass - username set success
+2021-05-07 00:00:16,706 [main] INFO BaseClass - password set success
+2021-05-07 00:00:16,750 [main] INFO BaseClass - login click success
+2021-05-07 00:00:46,074 [main] INFO BaseClass - Login test PASS
+2021-05-07 00:00:46,122 [main] INFO BaseClass - Invite popup close success
+2021-05-07 00:00:46,122 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-07 00:00:46,169 [main] INFO BaseClass - Remittance is present
+2021-05-07 00:01:44,214 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 00:01:49,824 [main] INFO BaseClass - Base URL Open
+2021-05-07 00:01:49,842 [main] INFO BaseClass - Browser is open succusfully
+2021-05-07 00:01:50,122 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 00:01:52,643 [main] INFO BaseClass - username set success
+2021-05-07 00:01:52,739 [main] INFO BaseClass - password set success
+2021-05-07 00:01:52,796 [main] INFO BaseClass - login click success
+2021-05-07 00:02:19,389 [main] INFO BaseClass - Login test PASS
+2021-05-07 00:02:19,424 [main] INFO BaseClass - Invite popup close success
+2021-05-07 00:02:19,424 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-07 00:02:19,463 [main] INFO BaseClass - Remittance is present
+2021-05-07 11:01:51,200 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 11:01:53,949 [main] INFO BaseClass - Base URL Open
+2021-05-07 11:01:53,967 [main] INFO BaseClass - Browser is open succusfully
+2021-05-07 11:01:54,278 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 11:01:55,592 [main] INFO BaseClass - username set success
+2021-05-07 11:01:55,706 [main] INFO BaseClass - password set success
+2021-05-07 11:01:55,760 [main] INFO BaseClass - login click success
+2021-05-07 11:02:25,313 [main] INFO BaseClass - Login test PASS
+2021-05-07 11:02:25,356 [main] INFO BaseClass - Invite popup close success
+2021-05-07 11:02:25,356 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-07 11:02:25,400 [main] INFO BaseClass - Remittance is present
+2021-05-07 11:05:34,047 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 11:05:36,187 [main] INFO BaseClass - Base URL Open
+2021-05-07 11:05:36,204 [main] INFO BaseClass - Browser is open succusfully
+2021-05-07 11:05:36,520 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 11:05:37,695 [main] INFO BaseClass - username set success
+2021-05-07 11:05:37,786 [main] INFO BaseClass - password set success
+2021-05-07 11:05:37,833 [main] INFO BaseClass - login click success
+2021-05-07 11:06:00,562 [main] INFO BaseClass - Login test PASS
+2021-05-07 11:06:00,606 [main] INFO BaseClass - Invite popup close success
+2021-05-07 11:06:00,606 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-07 11:06:00,651 [main] INFO BaseClass - Remittance is present
+2021-05-07 11:13:01,642 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 11:13:04,017 [main] INFO BaseClass - Base URL Open
+2021-05-07 11:13:04,034 [main] INFO BaseClass - Browser is open succusfully
+2021-05-07 11:13:04,349 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 11:13:05,447 [main] INFO BaseClass - username set success
+2021-05-07 11:13:05,538 [main] INFO BaseClass - password set success
+2021-05-07 11:13:05,583 [main] INFO BaseClass - login click success
+2021-05-07 11:13:25,619 [main] INFO BaseClass - Login test PASS
+2021-05-07 11:13:25,660 [main] INFO BaseClass - Invite popup close success
+2021-05-07 11:13:25,660 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-07 11:13:25,713 [main] INFO BaseClass - Remittance is present
+2021-05-07 11:15:08,724 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 11:15:10,917 [main] INFO BaseClass - Base URL Open
+2021-05-07 11:15:10,934 [main] INFO BaseClass - Browser is open succusfully
+2021-05-07 11:15:11,222 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 11:15:12,266 [main] INFO BaseClass - username set success
+2021-05-07 11:15:12,351 [main] INFO BaseClass - password set success
+2021-05-07 11:15:12,395 [main] INFO BaseClass - login click success
+2021-05-07 11:15:32,924 [main] INFO BaseClass - Login test PASS
+2021-05-07 11:15:32,966 [main] INFO BaseClass - Invite popup close success
+2021-05-07 11:15:32,967 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-07 11:15:33,006 [main] INFO BaseClass - Remittance is present
+2021-05-07 11:24:15,116 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 11:24:16,968 [main] INFO BaseClass - Base URL Open
+2021-05-07 11:24:16,984 [main] INFO BaseClass - Browser is open succusfully
+2021-05-07 11:24:17,245 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 11:24:18,589 [main] INFO BaseClass - username set success
+2021-05-07 11:24:18,683 [main] INFO BaseClass - password set success
+2021-05-07 11:24:18,730 [main] INFO BaseClass - login click success
+2021-05-07 11:24:35,904 [main] INFO BaseClass - Login test PASS
+2021-05-07 11:24:35,944 [main] INFO BaseClass - Invite popup close success
+2021-05-07 11:24:35,945 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-07 11:24:35,986 [main] INFO BaseClass - Remittance is present
+2021-05-07 11:24:36,044 [main] INFO BaseClass - My Transaction is present
+2021-05-07 11:24:36,080 [main] INFO BaseClass - Beneficiaries is present
+2021-05-07 11:24:36,116 [main] INFO BaseClass - Exchange Rate is present
+2021-05-07 11:24:36,148 [main] INFO BaseClass - Deliver FX is present
+2021-05-07 11:24:36,160 [main] INFO BaseClass - All Tab Present
+2021-05-07 12:11:29,280 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 12:11:31,769 [main] INFO BaseClass - Base URL Open
+2021-05-07 12:11:31,787 [main] INFO BaseClass - Browser is open succusfully
+2021-05-07 12:11:32,101 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 12:11:33,198 [main] INFO BaseClass - username set success
+2021-05-07 12:11:33,282 [main] INFO BaseClass - password set success
+2021-05-07 12:11:33,325 [main] INFO BaseClass - login click success
+2021-05-07 12:11:51,185 [main] INFO BaseClass - Login test PASS
+2021-05-07 12:11:51,226 [main] INFO BaseClass - Invite popup close success
+2021-05-07 12:11:51,226 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-07 12:11:51,269 [main] INFO BaseClass - Remittance is present
+2021-05-07 12:11:51,330 [main] INFO BaseClass - My Transaction is present
+2021-05-07 12:11:51,365 [main] INFO BaseClass - Beneficiaries is present
+2021-05-07 12:11:51,398 [main] INFO BaseClass - Exchange Rate is present
+2021-05-07 12:11:51,431 [main] INFO BaseClass - Deliver FX is present
+2021-05-07 12:11:51,466 [main] INFO BaseClass - Last Seen Not Present
+2021-05-07 12:11:51,467 [main] INFO BaseClass - All Tab Present and Last visit verified
+2021-05-07 12:17:18,673 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 12:17:21,685 [main] INFO BaseClass - Base URL Open
+2021-05-07 12:17:21,708 [main] INFO BaseClass - Browser is open succusfully
+2021-05-07 12:17:22,015 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 12:17:23,440 [main] INFO BaseClass - username set success
+2021-05-07 12:17:23,537 [main] INFO BaseClass - password set success
+2021-05-07 12:17:23,582 [main] INFO BaseClass - login click success
+2021-05-07 12:20:44,753 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 12:20:47,162 [main] INFO BaseClass - Base URL Open
+2021-05-07 12:20:47,180 [main] INFO BaseClass - Browser is open succusfully
+2021-05-07 12:20:47,487 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 12:20:48,730 [main] INFO BaseClass - username set success
+2021-05-07 12:20:48,830 [main] INFO BaseClass - password set success
+2021-05-07 12:20:48,874 [main] INFO BaseClass - login click success
+2021-05-07 12:24:03,910 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 12:24:06,209 [main] INFO BaseClass - Base URL Open
+2021-05-07 12:24:06,228 [main] INFO BaseClass - Browser is open succusfully
+2021-05-07 12:24:06,520 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 12:24:07,717 [main] INFO BaseClass - username set success
+2021-05-07 12:24:07,808 [main] INFO BaseClass - password set success
+2021-05-07 12:24:07,852 [main] INFO BaseClass - login click success
+2021-05-07 12:28:50,445 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 12:28:53,330 [main] INFO BaseClass - Base URL Open
+2021-05-07 12:28:53,351 [main] INFO BaseClass - Browser is open succusfully
+2021-05-07 12:28:53,813 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 12:28:55,040 [main] INFO BaseClass - username set success
+2021-05-07 12:28:55,140 [main] INFO BaseClass - password set success
+2021-05-07 12:28:55,193 [main] INFO BaseClass - login click success
+2021-05-07 12:37:40,279 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 12:37:43,565 [main] INFO BaseClass - Base URL Open
+2021-05-07 12:37:43,589 [main] INFO BaseClass - Browser is open succusfully
+2021-05-07 12:37:43,873 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 12:37:45,271 [main] INFO BaseClass - username set success
+2021-05-07 12:37:45,366 [main] INFO BaseClass - password set success
+2021-05-07 12:37:45,417 [main] INFO BaseClass - login click success
+2021-05-07 12:41:10,040 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 12:41:12,755 [main] INFO BaseClass - Base URL Open
+2021-05-07 12:41:12,773 [main] INFO BaseClass - Browser is open succusfully
+2021-05-07 12:41:13,072 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 12:41:14,326 [main] INFO BaseClass - username set success
+2021-05-07 12:41:14,422 [main] INFO BaseClass - password set success
+2021-05-07 12:41:14,467 [main] INFO BaseClass - login click success
+2021-05-07 14:26:33,322 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 14:26:35,985 [main] INFO BaseClass - Base URL Open
+2021-05-07 14:26:36,307 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 14:26:37,385 [main] INFO BaseClass - username set success
+2021-05-07 14:26:37,478 [main] INFO BaseClass - password set success
+2021-05-07 14:26:37,532 [main] INFO BaseClass - login click success
+2021-05-07 14:29:29,149 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 14:29:31,968 [main] INFO BaseClass - Base URL Open
+2021-05-07 14:29:32,281 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 14:29:33,572 [main] INFO BaseClass - username set success
+2021-05-07 14:29:33,668 [main] INFO BaseClass - password set success
+2021-05-07 14:31:21,327 [main] INFO BaseClass - Chrome Open succsfully
+2021-05-07 14:31:23,720 [main] INFO BaseClass - Base URL Open
+2021-05-07 14:31:24,000 [main] INFO BaseClass - Website almullaexchange open success
+2021-05-07 14:31:25,168 [main] INFO BaseClass - username set success
+2021-05-07 14:31:25,256 [main] INFO BaseClass - password set success
+2021-05-07 14:31:25,320 [main] INFO BaseClass - Login Buttion Click
+2021-05-07 14:31:25,320 [main] INFO BaseClass - login click success
+2021-05-07 14:32:06,736 [main] INFO BaseClass - Login test PASS
+2021-05-07 14:32:06,778 [main] INFO BaseClass - Invite popup close success
+2021-05-07 14:32:06,778 [main] INFO BaseClass - Invite Friend tab handle sucssfully
+2021-05-07 14:32:06,821 [main] INFO BaseClass - Remittance is present
+2021-05-07 14:32:06,877 [main] INFO BaseClass - My Transaction is present
+2021-05-07 14:32:06,923 [main] INFO BaseClass - Beneficiaries is present
+2021-05-07 14:32:06,956 [main] INFO BaseClass - Exchange Rate is present
+2021-05-07 14:32:06,988 [main] INFO BaseClass - Deliver FX is present
+2021-05-07 14:32:07,026 [main] INFO BaseClass - last Seen Verified
+2021-05-07 14:32:07,044 [main] INFO BaseClass - All Tab Present and Last visit verified
