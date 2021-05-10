@@ -56,5 +56,11 @@ Properties pro;
 		String path = pro.getProperty("browser");
 		return path;
 	}
+	
+	public String getCountry() {
+		
+		String name = pro.getProperty("Country");
+		return name;
+	}
 
 }

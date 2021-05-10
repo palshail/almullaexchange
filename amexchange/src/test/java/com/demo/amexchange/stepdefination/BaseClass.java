@@ -61,6 +61,12 @@ public class BaseClass {
 		log.info("Base URL Open");
 	}
 	
+	public void quit()
+	{
+		driver.quit();
+		log.info("execution completed");
+	}
+	
 	public void capturescreenshot(WebDriver driver, String tsname)throws IOException
 	{
 		TakesScreenshot ts = (TakesScreenshot) driver; 
@@ -68,17 +74,6 @@ public class BaseClass {
 		File taget = new File(System.getProperty("user.dir") + "\\Screenshots\\" + tsname + ".png");
 		FileUtils.copyFile(source, taget);
 		System.out.println("Screeb shot captured");	
-	}
-	
-	public String randomestring()
-	{
-		String generatedstring=RandomStringUtils.randomAlphabetic(8);
-		return(generatedstring);
-	}
-	
-	public static String randomeNum() {
-		String generatedString2 = RandomStringUtils.randomNumeric(4);
-		return (generatedString2);
 	}
 	
 }

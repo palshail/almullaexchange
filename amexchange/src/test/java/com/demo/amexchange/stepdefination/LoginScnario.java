@@ -30,13 +30,6 @@ public class LoginScnario extends BaseClass{
 	LoginScnarioObject lg;
 	BaseClass base;
 
-	public void quit()
-	{
-		driver.quit();
-		log.info("execution completed");
-	}
-	
-	
 	@Given("User Launch any web application")
 	public void user_launch_any_web_application() {
 		base = new BaseClass();
@@ -48,7 +41,7 @@ public class LoginScnario extends BaseClass{
 	@When("User goto website {string}")
 	public void user_goto_website(String string) {
 
-		driver.get(baseURL);
+		driver.get(string);
 		log.info("Website almullaexchange open success");
 	}
 

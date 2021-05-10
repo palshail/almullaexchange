@@ -66,7 +66,7 @@ public class LoginScnarioObject extends BaseClass {
 	
 	public void closeinvite() throws IOException
 	{
-		 wait.WaitForElement(closeinvite, 60);
+		 wait.WaitForElement(closeinvite, 120);
 		 String Title = closeinvite.getText();
 		 String invitetxt = Title.substring(2, 17);
 		 System.out.println(invitetxt);
@@ -157,7 +157,7 @@ public class LoginScnarioObject extends BaseClass {
 		if(lastseen.equals("Your last visit"))
 		{
 			 log.info("last Seen Verified"); 
-			 System.out.println(DeliverFXtab.getText());
+			 System.out.println(lastvisittab.getText());
 		}else
 		{
 			log.info("Last Seen Not Present");
